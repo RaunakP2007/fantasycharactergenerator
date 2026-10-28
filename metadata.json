@@ -1,0 +1,8 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "An interactive fantasy RPG character generator to summon heroes, warriors, mages, and rogues with rich lore, stats, and abilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
